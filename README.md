@@ -28,7 +28,7 @@ You can install this tool on **Linux**, or **Windows**. Follow the steps below f
    ```bash
    sudo apt update && sudo apt upgrade -y
    sudo apt install python3 python3-pip git -y
-   git clone https://github.com/yourusername/azmis-recon-tool.git
+   git clone https://github.com/azizulabedinazmi/Azmis-Recon-Tool.git
    cd azmis-recon-tool
    pip3 install -r requirements.txt
    ```
@@ -45,7 +45,7 @@ You can install this tool on **Linux**, or **Windows**. Follow the steps below f
 2. **Open Command Prompt** and run:
 
    ```cmd
-   git clone https://github.com/yourusername/azmis-recon-tool.git
+   git clone https://github.com/azizulabedinazmi/Azmis-Recon-Tool.git
    cd azmis-recon-tool
    pip install -r requirements.txt
    ```
@@ -55,6 +55,8 @@ You can install this tool on **Linux**, or **Windows**. Follow the steps below f
    ```cmd
    python ART.py
    ```
+
+Alternatively, Windows users can download and run the `ART.exe` file from the [releases page](https://github.com/azizulabedinazmi/Azmis-Recon-Tool/releases).
 
 ## 🔑 **Login Mechanism**
 
