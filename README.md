@@ -12,7 +12,7 @@ Attribution must include the name **"Azizul Abedin Azmi"** or the logo found in 
 # 🌐 **Azmi's Recon Tool** 🌐
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Made-With-Python](http://ForTheBadge.com/images/badges/made-with-python.svg)
+<img src="http://ForTheBadge.com/images/badges/made-with-python.svg"/> 
 
 Welcome to **Azmi's Recon Tool**! This versatile network reconnaissance tool allows you to perform various network analysis tasks, such as traceroute, DNS lookups, and security checks. 
 
