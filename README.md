@@ -1,5 +1,13 @@
-# azmis-recon-tool
+# Azmis-Recon-Tool
 Azmi's Recon Tool (ART) is a versatile network and web reconnaissance tool for security professionals. It offers features like traceroute, nslookup, HTTP headers check, ISP info, WHOIS info, port scanning, and more. This tool helps identify vulnerabilities and understand the infrastructure of target domains and websites.
+
+## License
+
+This software, tool, code, and materials are licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. You are free to share and adapt the material for any purpose, including commercial use, as long as appropriate credit is provided.
+
+Attribution must include the name **"Azizul Abedin Azmi"** or the logo found in this repository.
+
+[![View License](https://img.shields.io/badge/View-License-blue?style=for-the-badge)](LICENSE)
 
 # 🌐 **Azmi's Recon Tool** 🌐
 
@@ -25,7 +33,7 @@ You can install this tool on **Termux** (Android), **Linux**, or **Windows**. Fo
 3. **Run the Tool**:
 
    ```bash
-   python main.py
+   python ART.py
    ```
 
 ### 🐧 **Linux Installation**
@@ -43,7 +51,7 @@ You can install this tool on **Termux** (Android), **Linux**, or **Windows**. Fo
 2. **Run the Tool**:
 
    ```bash
-   python3 main.py
+   python3 ART.py
    ```
 
 ### 💻 **Windows Installation**
@@ -60,7 +68,7 @@ You can install this tool on **Termux** (Android), **Linux**, or **Windows**. Fo
 3. **Run the Tool**:
 
    ```cmd
-   python main.py
+   python ART.py
    ```
 
 ## 🔑 **Login Mechanism**
@@ -122,3 +130,9 @@ The tool offers a variety of features, including:
 ## 🎉 **Enjoy Exploring!** 
 
 Feel free to customize and extend the tool according to your needs. Happy recon! 🚀
+
+**Need Help or Have Queries?**
+
+If you need any help or have any queries, feel free to contact me.
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/azizul.abedin.azmi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/azizulabedin/)
