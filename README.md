@@ -12,7 +12,7 @@ Attribution must include the name **"Azizul Abedin Azmi"** or the logo found in 
 # 🌐 **Azmi's Recon Tool** 🌐
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<img src="http://ForTheBadge.com/images/badges/made-with-python.svg"/> 
+<img src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000"/> 
 
 Welcome to **Azmi's Recon Tool**! This versatile network reconnaissance tool allows you to perform various network analysis tasks, such as traceroute, DNS lookups, and security checks. 
 
@@ -133,6 +133,8 @@ The tool offers a variety of features, including:
 ## 🎉 **Enjoy Exploring!** 
 
 Feel free to customize and extend the tool according to your needs. Happy recon! 🚀
+
+<a href="https://www.buymeacoffee.com/azizulabedinazmi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 **Need Help or Have Queries?**
 
