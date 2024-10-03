@@ -1,4 +1,4 @@
-# Azmis-Recon-Tool
+# 🌐 **Azmi's Recon Tool** 🌐
 Azmi's Recon Tool (ART) is a versatile network and web reconnaissance tool for security professionals. It offers features like traceroute, nslookup, HTTP headers check, ISP info, WHOIS info, port scanning, and more. This tool helps identify vulnerabilities and understand the infrastructure of target domains and websites.
 
 ## License
@@ -9,7 +9,7 @@ Attribution must include the name **"Azizul Abedin Azmi"** or the logo found in 
 
 [![View License](https://img.shields.io/badge/View-License-blue?style=for-the-badge)](LICENSE)
 
-# 🌐 **Azmi's Recon Tool** 🌐
+
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <img src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000"/> 
