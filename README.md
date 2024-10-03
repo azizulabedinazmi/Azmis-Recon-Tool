@@ -18,26 +18,8 @@ Welcome to **Azmi's Recon Tool**! This versatile network reconnaissance tool all
 
 ## 💾 **Installation Instructions**
 
-You can install this tool on **Termux** (Android), **Linux**, or **Windows**. Follow the steps below for each platform:
+You can install this tool on **Linux**, or **Windows**. Follow the steps below for each platform:
 
-### 📱 **Termux Installation**
-
-1. **Install Termux** from the Google Play Store or F-Droid.
-2. **Open Termux** and run the following commands:
-
-   ```bash
-   pkg update && pkg upgrade -y
-   pkg install python git -y
-   git clone https://github.com/yourusername/azmis-recon-tool.git
-   cd azmis-recon-tool
-   pip install -r requirements.txt
-   ```
-
-3. **Run the Tool**:
-
-   ```bash
-   python ART.py
-   ```
 
 ### 🐧 **Linux Installation**
 
