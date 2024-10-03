@@ -56,7 +56,6 @@ You can install this tool on **Linux**, or **Windows**. Follow the steps below f
    python ART.py
    ```
 
-Alternatively, Windows users can download and run the `ART.exe` file from the [releases page](https://github.com/azizulabedinazmi/Azmis-Recon-Tool/releases).
 
 ## 🔑 **Login Mechanism**
 
