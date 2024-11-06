@@ -11,8 +11,7 @@ Attribution must include the name **"Azizul Abedin Azmi"** or the logo found in 
 
 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<img src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000"/> 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<img src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000"/> 
 
 Welcome to **Azmi's Recon Tool**! This versatile network reconnaissance tool allows you to perform various network analysis tasks, such as traceroute, DNS lookups, and security checks. 
 
